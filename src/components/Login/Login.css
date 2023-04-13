@@ -1,0 +1,76 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  width: 50%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+ 
+}
+.loinLogo {
+ margin-bottom: 180px !important;
+ 
+}
+.img_box {
+  width: 50%;
+}
+.loginImg {
+  width: 100%;
+}
+.greeting {
+  width: 407px;
+  font-family: "Poppins";
+  font-style: normal;
+  text-align: left;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #181818;
+}
+.logo_desc {
+  font-weight: 400;
+  font-size: 16px;
+  text-align: left;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #868686;
+  margin-bottom: 74px;
+}
+.loginInput {
+  width: 407px;
+  height: 34px;
+  border: none;
+  border-bottom: 1px solid #868686;
+  outline: none;
+}
+.forgetPassword {
+  text-align: right;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.02em;
+  text-decoration-line: underline;
+  color: #3211ff;
+}
+.submitBtn {
+  width: 407px;
+  height: 50px;
+  background: #ff5500;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.account {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.02em;
+  color: #868686;
+}
